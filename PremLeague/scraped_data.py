@@ -1,3 +1,5 @@
+# If interested in viewing summarized version of the scraped data in python
+
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests 
