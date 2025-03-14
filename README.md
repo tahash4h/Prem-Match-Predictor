@@ -11,7 +11,7 @@ The **Soccer Match Prediction Model** is a machine learning project that predict
 
 ## Technologies Used
 - **Programming Language**: Python
-- **Libraries**: pandas, NumPy, scikit-learn, BeautifulSoup, requests, Matplotlib
+- **Libraries**: pandas, NumPy, scikit-learn, BeautifulSoup, requests
 - **Machine Learning Model**: Random Forest Classifier
 
 ## Installation
