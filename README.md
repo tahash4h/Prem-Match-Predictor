@@ -29,7 +29,7 @@ Ensure you have Python installed. You can download it from [python.org](https://
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the script to collect data:
+3. If interested in running data collection script:
    ```bash
    python PremLeague/scraped_data.py
    ```
