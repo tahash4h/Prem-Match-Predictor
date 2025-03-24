@@ -21,8 +21,9 @@ Ensure you have Python installed. You can download it from [python.org](https://
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tahash4h/soccer-match-prediction.git
-   cd soccer-match-prediction
+   git clone https://github.com/tahash4h/Prem-Match-Predictor.git
+   cd Prem-Match-Predictor
+
    ```
 2. Install dependencies:
    ```bash
