@@ -31,21 +31,17 @@ Ensure you have Python installed. You can download it from [python.org](https://
    ```
 3. Run the script to collect data:
    ```bash
-   python data_scraper.py
+   python PremLeague/scraped_data.py
    ```
 4. Train the model:
-   ```bash
-   python train_model.py
-   ```
-5. Make predictions:
-   ```bash
-   python predict.py
-   ```
+   Open prediction_model.ipynb in Jupyter Notebook.
+   Run the cells to train and evaluate the model.
 
 ## Data Collection
-- **Source**: Web scraping from soccer statistics websites.
+- **Data Source**: Web scraping from soccer statistics websites.
 - **Tools**: BeautifulSoup, requests.
-- **Stored Format**: CSV files for structured analysis.
+- **Data Format**: CSV file (matches.csv).
+- **Processing**: Feature selection and engineering to improve model performance.
 
 ## Model Training
 - **Algorithm**: Random Forest Classifier.
