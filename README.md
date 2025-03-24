@@ -34,8 +34,9 @@ Ensure you have Python installed. You can download it from [python.org](https://
    python PremLeague/scraped_data.py
    ```
 4. Train the model:
-   Open prediction_model.ipynb in Jupyter Notebook.
-   Run the cells to train and evaluate the model.
+- Open `prediction_model.ipynb` in Jupyter Notebook.
+- Run the cells to train and evaluate the model.
+
 
 ## Data Collection
 - **Data Source**: Web scraping from soccer statistics websites.
